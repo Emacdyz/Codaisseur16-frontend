@@ -1,0 +1,15 @@
+.webhook {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 25px;
+}
+.webhook-field {
+    width: 85%;
+    height: 22px;
+    padding: 5px;
+    /* margin: 5px; */
+    font-size: 12px;
+    color: #F50057
+}

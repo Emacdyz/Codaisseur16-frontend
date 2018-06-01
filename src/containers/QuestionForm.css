@@ -1,0 +1,19 @@
+.quizy-card {
+    margin: 20px;
+}
+
+.quizy-card .question-form .question-action {
+    float: right;
+    display: block;
+    position: absolute;
+    right: 15%;
+    margin-top: 10px;
+}
+.quizy-card .question-form {
+    margin-bottom: 20px;
+}
+
+.quizy-card .question-form .question-action:hover{
+    background-color: #F50057;
+    color: white
+}

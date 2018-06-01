@@ -1,0 +1,32 @@
+.outer-paper {
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    width: 60%;
+  }
+
+.submit {
+      margin: 12px;
+      background-color: #F50057;
+      color: white;
+      letter-spacing: 1px;
+      text-decoration: none;
+  }
+
+.questionsContainer {
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+.Radio {
+    padding: 5px;
+}
+
+.Link {
+    text-decoration: none;
+    color: white;
+}
+
+.FormLabel {
+    font-size: 25px;
+}
