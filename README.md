@@ -7,3 +7,9 @@ The app consists on a Quiz Creator Tool built for Codaisseur teacher. I was part
 ## Front - end Team
 
 The front-end service is composed by two platforms: One for the teacher to create quiz and add/edit/delete quiz questions, one for the students to take the quiz and get their final score. Thoese 2 platforms are secured so signing up/ loging in/ loging out is possible.
+
+## Run the app 🚀
+
+* Clone this repo
+* Run ` yarn` in your terminal to instal the dependencies
+* Run `yarn start` to run app
